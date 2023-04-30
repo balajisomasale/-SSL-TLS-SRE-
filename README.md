@@ -42,3 +42,7 @@ Reading/Examining the certificate :
 
 ![image](https://user-images.githubusercontent.com/35003840/235363747-1c2be5e8-1c80-4d03-8893-deb39ab84bbd.png)
 
+How to install Open SSL : 
+
+https://tecadmin.net/install-openssl-on-windows/
+
