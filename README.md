@@ -48,3 +48,24 @@ https://tecadmin.net/install-openssl-on-windows/
 
 - It still is not working 
 
+#### Section 3: Certificate Architecture : 
+
+## Structure of certificate : 
+
+![image](https://user-images.githubusercontent.com/35003840/235370586-ca0c559f-c49e-4b42-bbe5-742b3b1d6fbe.png)
+
+## Digital Certificate : 
+
+![image](https://user-images.githubusercontent.com/35003840/235371790-f09d4279-87be-4cd3-91cd-4407d313b331.png)
+
+- There are 2 cryptographic algorithms that are used in above image : 1) `Integrity` and 2) `SHA1` or `SHA2` in general 
+
+![image](https://user-images.githubusercontent.com/35003840/235372529-ba75c613-eb02-4b6a-baaf-0a2c0661770c.png)
+
+![image](https://user-images.githubusercontent.com/35003840/235372866-6b74f621-5b52-4bc2-8ac2-e3524b24cba2.png)
+
+## Certificate standard and encoding methods : 
+
+![image](https://user-images.githubusercontent.com/35003840/235373262-4140bbde-f351-4510-939a-429e7d797572.png)
+
+
