@@ -36,4 +36,9 @@ Reading/Examining the certificate :
 
 ![image](https://user-images.githubusercontent.com/35003840/235361682-57b2d80a-fbe8-44a7-8f50-84f6fa4cac77.png)
 
+- To filter the `.pem` not exposed, we are using `-noout` to NOT expose it and do it in text 
+
+![image](https://user-images.githubusercontent.com/35003840/235363479-fde8d8c2-0e21-4b08-96b6-da96d871096e.png)
+
+![image](https://user-images.githubusercontent.com/35003840/235363747-1c2be5e8-1c80-4d03-8893-deb39ab84bbd.png)
 
