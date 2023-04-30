@@ -30,4 +30,10 @@ CA signed vs Self Signed certificates :
 Reading/Examining the certificate : 
 
 - We can always check all the information of SSL of any browser of any website.
-- We are using `Open SSL` to view the SSL certficates 
+- We are using `Open SSL` to view the SSL certficates and in below, we can see `pem` certificate 
+
+![image](https://user-images.githubusercontent.com/35003840/235361642-59d719f4-673b-4983-bd0b-0b18a18eabbc.png)
+
+![image](https://user-images.githubusercontent.com/35003840/235361682-57b2d80a-fbe8-44a7-8f50-84f6fa4cac77.png)
+
+
