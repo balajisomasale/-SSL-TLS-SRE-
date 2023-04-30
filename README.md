@@ -1,7 +1,7 @@
 # SSL-TLS-SRE-
 For education purpose only
 
-## Section 1 : Introuduction 
+## Section 1 : Introduction 
 
 - SSL port is by default `443`
 ![image](https://user-images.githubusercontent.com/35003840/235323803-bc9a30ef-0dfa-49a4-b404-e8700dd649f2.png)
@@ -62,7 +62,6 @@ https://tecadmin.net/install-openssl-on-windows/
 
 ![image](https://user-images.githubusercontent.com/35003840/235372529-ba75c613-eb02-4b6a-baaf-0a2c0661770c.png)
 
-![image](https://user-images.githubusercontent.com/35003840/235372866-6b74f621-5b52-4bc2-8ac2-e3524b24cba2.png)
 
 ## Certificate standard and encoding methods : 
 
