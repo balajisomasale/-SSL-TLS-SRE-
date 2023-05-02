@@ -48,13 +48,13 @@ https://tecadmin.net/install-openssl-on-windows/
 
 - It still is not working 
 
-#### Section 3: Certificate Architecture : 
+## Section 3: Certificate Architecture : 
 
-## Structure of certificate : 
+#### Structure of certificate : 
 
 ![image](https://user-images.githubusercontent.com/35003840/235370586-ca0c559f-c49e-4b42-bbe5-742b3b1d6fbe.png)
 
-## Digital Certificate : 
+#### Digital Certificate : 
 
 ![image](https://user-images.githubusercontent.com/35003840/235371790-f09d4279-87be-4cd3-91cd-4407d313b331.png)
 
@@ -63,8 +63,54 @@ https://tecadmin.net/install-openssl-on-windows/
 ![image](https://user-images.githubusercontent.com/35003840/235372529-ba75c613-eb02-4b6a-baaf-0a2c0661770c.png)
 
 
-## Certificate standard and encoding methods : 
+#### Certificate standard and encoding methods : 
 
 ![image](https://user-images.githubusercontent.com/35003840/235373262-4140bbde-f351-4510-939a-429e7d797572.png)
 
+#### Types of certificates : 
+
+![image](https://user-images.githubusercontent.com/35003840/235805694-48e381df-223a-43be-a81e-53c1740320b3.png)
+
+![image](https://user-images.githubusercontent.com/35003840/235806678-cc264430-3c9b-473b-a4a2-02dbf72dfa44.png)
+
+![image](https://user-images.githubusercontent.com/35003840/235807157-3dcc2013-7531-4ffa-bccf-c762438d860b.png)
+
+## Section 4: Encryption Algorithms:
+
+#### Introduction of Encryption Algorithms :
+
+![image](https://user-images.githubusercontent.com/35003840/235807305-bf653453-97b1-4ea8-85d9-fb9af759cb23.png)
+
+#### Private/Symmetric Key Encryption : 
+
+![image](https://user-images.githubusercontent.com/35003840/235808246-6968c200-5ab4-4c8d-84ad-507e1b7de721.png)
+
+#### AES :
+
+![image](https://user-images.githubusercontent.com/35003840/235808494-c8bf32bf-a55d-4a01-8692-46e2dbf83e93.png)
+
+#### Public/Asymmetric Key Encryption :
+
+![image](https://user-images.githubusercontent.com/35003840/235808662-f05de590-ac28-458e-a723-30c8206cd0b1.png)
+
+
+#### RSA :
+
+![image](https://user-images.githubusercontent.com/35003840/235808816-99948090-dd2a-4f30-a1ff-a436caff3f9b.png)
+
+#### Elliptic Curve algorithm :
+
+![image](https://user-images.githubusercontent.com/35003840/235809014-613c7373-60be-444b-b213-dbbc5e143699.png)
+
+#### Hashing algorithms :
+
+![image](https://user-images.githubusercontent.com/35003840/235809159-6372e5ae-5ccb-4af2-bbf8-19202bf59cbe.png)
+
+![image](https://user-images.githubusercontent.com/35003840/235809252-d3399409-a8f3-47f7-8fe5-43bd50cf53c6.png)
+
+## Seciton 5: SSL Communication :
+
+![image](https://user-images.githubusercontent.com/35003840/235809333-ba571e17-39e3-4612-9027-79197f3d2f31.png)
+
+resume from first video
 
