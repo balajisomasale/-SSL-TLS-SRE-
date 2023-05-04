@@ -112,5 +112,53 @@ https://tecadmin.net/install-openssl-on-windows/
 
 ![image](https://user-images.githubusercontent.com/35003840/235809333-ba571e17-39e3-4612-9027-79197f3d2f31.png)
 
-resume from first video
+### 1 . Authentication : 
 
+![image](https://user-images.githubusercontent.com/35003840/236073504-ccac756f-2869-45d8-baca-607a2b9080d9.png)
+
+![image](https://user-images.githubusercontent.com/35003840/236073609-936eacd3-1427-463c-8f33-3a4eb0433212.png)
+
+### 2. Key Exchange : 
+
+![image](https://user-images.githubusercontent.com/35003840/236074542-d7c562bd-421f-420c-bb2d-113e05e967f9.png)
+
+
+![image](https://user-images.githubusercontent.com/35003840/236074937-df67b319-7d0d-472c-b03a-b9a3acd46ac1.png)
+
+### 3. Encrypted Data Transfer : 
+
+![image](https://user-images.githubusercontent.com/35003840/236075146-c7f03890-9db5-40da-9ea8-8ee32b340d5d.png)
+
+
+#### Keys and Numbers : 
+
+![image](https://user-images.githubusercontent.com/35003840/236075480-79b26b9b-3176-4567-8836-8ced3378341f.png)
+
+#### CLI Demo : 
+
+![image](https://user-images.githubusercontent.com/35003840/236075619-b5245959-417b-4cd0-8571-ae3bcee01322.png)
+
+## Section 6 : Certificate Provisioning :: 
+
+#### Request and Signing : 
+
+![image](https://user-images.githubusercontent.com/35003840/236076726-dd1e238f-f5ee-4610-b1e2-e9481762a489.png)
+
+![image](https://user-images.githubusercontent.com/35003840/236076783-1bebc199-7014-44f9-8641-f98b12f01030.png)
+
+- Running the commands in the terminal : 
+  
+  ![image](https://user-images.githubusercontent.com/35003840/236077749-5426b553-783d-4e81-a11c-c014c539e265.png)
+
+  ![image](https://user-images.githubusercontent.com/35003840/236078790-ad03af50-5af1-4237-98d4-a14a1c506450.png)
+
+  ![image](https://user-images.githubusercontent.com/35003840/236078836-1148890e-601c-49c0-b74f-d1af12238e71.png)
+
+
+ #### Certificate Request and Signing : 
+ 
+ ![image](https://user-images.githubusercontent.com/35003840/236078920-54ece49c-1aea-4411-917a-c419b8a5d77f.png)
+
+#### Installation : 
+
+resume from here 
